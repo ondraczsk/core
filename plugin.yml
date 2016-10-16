@@ -1,0 +1,7 @@
+name: Core
+main: Core\Core
+version: "1.0"
+api: [1.14.0]
+load: STARTUP
+author: ondraczsk
+description: Core
